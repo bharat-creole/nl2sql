@@ -1,5 +1,5 @@
-!pip install vanna
-!pip install streamlit
+pip install vanna
+pip install streamlit
 
 import vanna as vn
 import streamlit as st
